@@ -1,7 +1,7 @@
 public class Palindrome {
 
 	public static void main(String[] args) {
-		String str = "bloop", rstr = "";
+		String str = "bob", rstr = "";
 	    
 	    int l = str.length();
 
